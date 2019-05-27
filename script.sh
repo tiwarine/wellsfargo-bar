@@ -13,3 +13,4 @@ echo "user: $var1 || Environment: $env" >> test
 echo "[INFO] Git jenkins integration"
 echo "[INFO] Poll SCM Automatic Trigger"
 echo "[INFO] Branch notification"
+echo "[INFO] Branch notification2"
