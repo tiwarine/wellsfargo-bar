@@ -12,4 +12,4 @@ echo "Machine:" `uname -a` >> test
 echo "user: $var1 || Environment: $env" >> test
 echo "[INFO] Git jenkins integration"
 echo "[INFO] Poll SCM Automatic Trigger"
-Echo "[INFO] Test notification"
+echo "[INFO] Test notification"
